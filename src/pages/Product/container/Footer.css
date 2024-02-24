@@ -1,0 +1,14 @@
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    margin:100px; /* Set an appropriate height for your footer */
+    background-color: #f2bfbf; /* Add a background color if needed */
+  }
+  
+  .icon-container {
+    display: flex;
+    gap: 20px; /* Adjust the gap between icons if needed */
+  }
+  
